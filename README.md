@@ -14,6 +14,8 @@ Google Play에서 피처드가 되기 위해서는 백버튼으로 다이얼로�
 
 https://docs.yoyogames.com/source/dadiospice/002_reference/asynchronous%20functions/get_string_async.html
 
+***GMS1, GMS2 둘 다 사용 가능합니다. 단, 샘플 프로젝트는 GMS1로 개발되어 있습니다.***
+
 ## 설치 방법
 Extensions에서 `Dialogs.gmez`를 Import 합니다.
 
